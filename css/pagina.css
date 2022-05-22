@@ -1,3 +1,7 @@
+html {
+    scroll-behavior: smooth;
+}
+
 body {
     margin: 0;
 }
@@ -10,7 +14,7 @@ a:not(:hover) {
     text-decoration: none;
 }
 
-.cabecalho {s
+.cabecalho {
     padding: 12px 24px;
     background-color: #eaecf0;
 }
